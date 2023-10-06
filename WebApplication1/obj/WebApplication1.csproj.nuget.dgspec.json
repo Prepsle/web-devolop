@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UNI\\Documents\\PT-ung-dung-web\\bai_TH\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\UNI\\Documents\\git-th\\web-devolop\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UNI\\Documents\\PT-ung-dung-web\\bai_TH\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\UNI\\Documents\\git-th\\web-devolop\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UNI\\Documents\\PT-ung-dung-web\\bai_TH\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\UNI\\Documents\\git-th\\web-devolop\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\UNI\\Documents\\PT-ung-dung-web\\bai_TH\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\UNI\\Documents\\git-th\\web-devolop\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\UNI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UNI\\Documents\\PT-ung-dung-web\\bai_TH\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\UNI\\Documents\\git-th\\web-devolop\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\UNI\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
