@@ -15,7 +15,7 @@ namespace WebApplication1.Components
         {
             var listofMenu = (from m in _context.Posts
                               where (m.IsActive == true) && (m.Status == 1)
-                              select m).ToList();
+                              select m).Take(3).ToList();
             //m.Position == 1 menu nằm trên
             //m.Position == 0 menu nằm dưới
 

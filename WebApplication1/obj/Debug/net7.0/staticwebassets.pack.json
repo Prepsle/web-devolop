@@ -357,6 +357,14 @@
       "PackagePath": "staticwebassets\\img\\testimonial-4.jpg"
     },
     {
+      "Id": "C:\\Users\\UNI\\Documents\\git-th\\web-devolop\\WebApplication1\\wwwroot\\img\\tsdh.jpeg",
+      "PackagePath": "staticwebassets\\img\\tsdh.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\UNI\\Documents\\git-th\\web-devolop\\WebApplication1\\wwwroot\\img\\tuyensinh.png",
+      "PackagePath": "staticwebassets\\img\\tuyensinh.png"
+    },
+    {
       "Id": "C:\\Users\\UNI\\Documents\\git-th\\web-devolop\\WebApplication1\\wwwroot\\img\\user.jpg",
       "PackagePath": "staticwebassets\\img\\user.jpg"
     },

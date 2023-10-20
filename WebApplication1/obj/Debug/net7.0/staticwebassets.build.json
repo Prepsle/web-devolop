@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DLRJVGwj7/8Vt5TX43dZ3uW1YUubEl3ydzjPS3TNKGI=",
+  "Hash": "y/ipSsZlRVHvkLzEHN7d2rbLZlspM3sxeA3kbaaztWU=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -1545,6 +1545,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\testimonial-4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\UNI\\Documents\\git-th\\web-devolop\\WebApplication1\\wwwroot\\img\\tsdh.jpeg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\UNI\\Documents\\git-th\\web-devolop\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "img/tsdh.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\tsdh.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\UNI\\Documents\\git-th\\web-devolop\\WebApplication1\\wwwroot\\img\\tuyensinh.png",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\UNI\\Documents\\git-th\\web-devolop\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "img/tuyensinh.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\tuyensinh.png"
     },
     {
       "Identity": "C:\\Users\\UNI\\Documents\\git-th\\web-devolop\\WebApplication1\\wwwroot\\img\\user.jpg",
