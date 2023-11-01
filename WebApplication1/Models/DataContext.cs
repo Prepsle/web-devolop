@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using WebApplication1.Areas.Admin.Models;
 
 namespace WebApplication1.Models
 {
@@ -11,5 +12,6 @@ namespace WebApplication1.Models
         public DbSet<Menu> Menus { get; set; }
         public DbSet<Post> Posts { get; set; }
         public DbSet<view_Post_Menu> PostMenus { get; set; }
+        public DbSet<AdminMenu> AdminMenus { get; set; }
     }
 }

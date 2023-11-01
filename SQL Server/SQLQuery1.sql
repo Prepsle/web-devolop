@@ -26,3 +26,17 @@ PostOrder int,
 MenuID int,
 Category int,
 Status int );
+
+create table AdminMenu (
+AdminMenuID bigint identity(1,1) primary key,
+ItemName nvarchar(50),
+ItemLevel int,
+ParentLevel int,
+ItemOrder int,
+IsActive bit,
+ItemTarget nvarchar(20),
+AreaName nvarchar(20),
+ControllerName nvarchar(20),
+ActionName nvarchar(20),
+Icon nvarchar(50),
+IdName nvarchar(50) );
